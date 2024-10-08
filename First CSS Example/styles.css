@@ -1,0 +1,74 @@
+/* img {
+  padding: inherit;
+  margin: auto;
+  display: block;
+} */
+
+p {
+  color: red;
+  font-weight: bold;
+  background-color: yellow;
+}
+
+.pClass {
+  color: purple;
+  text-decoration: underline;
+}
+
+#pWithId {
+  color: green;
+  font-weight: bolder;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: cadetblue;
+  text-decoration: none;
+  background-color: darkmagenta;
+}
+
+a:hover {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: chocolate;
+}
+
+p:first-child {
+  color: gray;
+  text-decoration: underline;
+}
+
+p:last-child {
+  color: aquamarine;
+}
+
+td {
+  border: 1px solid black;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+li {
+  background-color: blue;
+}
+
+div h1 {
+  background-color: darkslateblue;
+}
+
+.btnClass {
+  background-color: blue;
+  border: 1px solid red;
+  color: white;
+  font-weight: bold;
+}
